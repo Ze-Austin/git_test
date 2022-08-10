@@ -7,3 +7,4 @@ Add the change to git: git add . [or git add file.name]
 Commit the change: git commit -m 'message here'
 Add and commit at once: git commit -am
 Push changes to the branch: git push origin branchname
+Create pull request on the original repo on GitHub
