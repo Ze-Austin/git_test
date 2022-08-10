@@ -1,0 +1,9 @@
+Fork original repo on GitHub
+Clone from personal GitHub into local computer folder: git clone https://personal.repo
+CD into the cloned folder: cd directory_name
+Add upstream, which links to original GitHub repo: git remote add upstream https://original.repo
+Create and move into a new branch: git checkout -b newbranchname
+Add the change to git: git add . [or git add file.name]
+Commit the change: git commit -m 'message here'
+Add and commit at once: git commit -am
+Push changes to the branch: git push origin branchname
